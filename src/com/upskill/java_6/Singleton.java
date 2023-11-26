@@ -28,7 +28,7 @@ public class Singleton {
 		System.out.println("Demo III method for singletone class");
 	}
 	
-	//Changes for Git Pull request practice nrew
+	//Changes for Git Pull request practice 
 	
 	//git changes using eclipse
 	
