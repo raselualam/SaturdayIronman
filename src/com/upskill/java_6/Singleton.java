@@ -28,7 +28,9 @@ public class Singleton {
 		System.out.println("Demo III method for singletone class");
 	}
 	
-	//Changes for Git Pull request practice
+	//Changes for Git Pull request practice nrew
+	
+	//git changes using eclipse
 	
 	protected static void demo4(){
 		System.out.println("Demo IIII method for singletone class");
