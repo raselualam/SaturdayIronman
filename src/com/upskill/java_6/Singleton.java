@@ -30,6 +30,8 @@ public class Singleton {
 	
 	//Changes for Git Pull request practice 
 	
+	//this changes are in devRasel branch
+	
 	//git changes using eclipse
 	
 	protected static void demo4(){
