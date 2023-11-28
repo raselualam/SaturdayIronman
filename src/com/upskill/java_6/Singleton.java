@@ -28,6 +28,10 @@ public class Singleton {
 		System.out.println("Demo III method for singletone class");
 	}
 	
+	//git changes
+	
+	//this changes is for devReviewClass
+
 	//Changes for Git Pull request practice 
 	
 	//this changes are in devRasel branch
@@ -37,5 +41,4 @@ public class Singleton {
 	protected static void demo4(){
 		System.out.println("Demo IIII method for singletone class");
 	}
-	
 }
