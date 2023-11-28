@@ -29,4 +29,6 @@ public class Singleton {
 	}
 	
 	//git changes
+	
+	//this changes is for devReviewClass
 }
